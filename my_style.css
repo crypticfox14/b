@@ -1,0 +1,28 @@
+#background {
+    background-image: url("background.jpg");
+    background-size: 1920px 1080px;
+}
+#title {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#head {
+    text-align: right;
+    word-spacing: 10px;
+    font-size: 15px;
+}
+#body {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+a {
+    border: solid 3px black;
+    padding: 4px;
+}
+
+a:hover {
+    font-size: 20px;
+}
